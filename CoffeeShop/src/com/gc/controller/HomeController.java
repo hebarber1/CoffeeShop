@@ -10,10 +10,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.gc.dao.Dao;
-import com.gc.dao.DaoJDBCImpl;
-import com.gc.dto.ItemDto;
-
 /**
  * @author Herman
  *
@@ -29,7 +25,7 @@ public class HomeController {
 	@RequestMapping("/list")
 	public ModelAndView getAllItems(@RequestParam("sku")String sku){
 		
-		Dao dao = new DaoJDBCImpl();//TODO replace with factory design pattern here
+		DaoJDBCImpl dao = new DaoJDBCImpl();//TODO replace with factory design pattern here
 		
 		ItemDto listItem = dao.listById(Integer.valueOf(sku));//valueOf() is a factory design pattern here
 			

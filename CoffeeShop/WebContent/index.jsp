@@ -4,15 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Search Form</title>
+<title>Registration Page</title>
 </head>
 <body>
 
-<form action="list" method="get">
-Sku:
-<input type="number" name="sku">
-<input type="submit" >
-</form>
+${Welcome to GC COFFEE Register}
+	<!--  <%= "Welcome to GC COFFEE Registration" %> -->
 
 </body>
 </html>

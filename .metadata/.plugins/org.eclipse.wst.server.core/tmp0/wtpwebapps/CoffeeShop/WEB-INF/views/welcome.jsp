@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Spring MVC Welcome</title>
+<title>Spring Welcome to GC Coffee Register</title>
 
 </head>
 <body>
 
-${message}
+${Welcome to GC COFFEE Register}
 
 </body>
 </html>
