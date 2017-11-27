@@ -36,9 +36,9 @@ public class HomeController {
 	public ModelAndView helloWorld() throws ClassNotFoundException, SQLException {
 
 		// prep for step # 3
-		String url = "jdbc:mysql://localhost:3306/coffeeshopdb";
+		String url = "jdbc:mysql://localhost:3306/northwind";
 		//Fill in userName and password
-		String userName = "guest";
+		String userName = "root";
 		String password = "prince1234";
 		String query = "select * from customers";
 
