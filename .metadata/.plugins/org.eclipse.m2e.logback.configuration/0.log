@@ -138,3 +138,61 @@
 2017-11-26 22:20:32,904 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2017-11-26 22:20:39,993 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop
 2017-11-26 22:20:39,994 [Worker-82] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-11-26 23:19:09,819 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-26 23:19:09,821 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-26 23:19:09,823 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-26 23:19:09,824 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-26 23:19:43,491 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-26 23:19:43,492 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-26 23:19:43,494 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-26 23:19:43,495 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 04:52:58,230 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:52:58,245 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 04:52:58,245 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:52:58,245 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 04:53:21,632 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:53:21,632 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 04:53:21,648 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:53:21,650 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 04:57:43,609 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:57:43,609 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 04:57:43,609 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:57:43,609 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 04:58:34,026 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:58:34,026 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 04:58:34,026 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:58:34,026 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 04:59:01,562 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:59:01,564 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 04:59:01,565 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:59:01,566 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 04:59:59,537 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:59:59,537 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 04:59:59,537 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 04:59:59,537 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 05:01:16,376 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:01:16,376 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 05:01:16,376 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:01:16,392 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 05:06:10,808 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-27 05:06:20,343 [Worker-128] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop
+2017-11-27 05:06:20,343 [Worker-128] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-11-27 05:08:14,873 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:08:14,873 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 05:08:14,873 [Worker-130] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:08:14,873 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 05:09:20,417 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-11-27 05:09:29,250 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop
+2017-11-27 05:09:29,250 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2017-11-27 05:11:18,839 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:11:18,839 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 05:11:18,839 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:11:18,855 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 05:13:26,509 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:13:26,509 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 05:13:26,509 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:13:26,509 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
+2017-11-27 05:18:32,484 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:18:32,484 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\main\resources
+2017-11-27 05:18:32,500 [Worker-136] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-11-27 05:18:32,500 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hbm1\Desktop\CoffeeShop\CoffeeShop\src\test\resources
