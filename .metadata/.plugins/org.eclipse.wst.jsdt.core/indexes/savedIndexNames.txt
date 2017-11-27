@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\hbm1\Desktop\CoffeeShop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+895583854.index
+2717708098.index
+4278825290.index
+2914341379.index
+3068834088.index
+3215922894.index
+3512293562.index
